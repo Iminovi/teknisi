@@ -1,0 +1,7 @@
+{
+  "name": "Republik Computer - Service & Tracking Center",
+  "description": "Portal permohonan service perangkat, pelacakan status perbaikan real-time, dan sistem notifikasi otomatis WhatsApp/Email dari Republik Computer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
